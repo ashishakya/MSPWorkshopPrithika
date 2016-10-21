@@ -1,0 +1,15 @@
+high-level,interpreted,interactive and object oriented scripting language
+
+Features
+general purpose
+interpreted
+modular(Batteries include)
+Object oriented
+Indentation(No cruly braces)
+Extendible and scalable
+
+Python2 and Python3
+Python2 has more complex modules2
+output and input are different
+Python2 doesnt take "".
+Python3 takes input and python2 takes raw input 
